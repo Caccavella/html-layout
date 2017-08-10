@@ -1,0 +1,31 @@
+
+.top_header {
+    background: grey;
+    height: 100px;
+    width: 100%;
+}
+.box_left {
+    height: 90vh;
+    width: 10%;
+    float: left;
+    background: blue;
+}
+.box_right {
+    height: 90vh;
+    width: 10%;
+    float: right;
+    background: blue; 
+}
+.box_bottom {
+    height: 73px;
+    width: 90%;
+    background: black;
+    bottom: 0;
+    float: center;
+}
+.middle {
+    height: 80vh;
+    float: center;
+    background: white;
+    bottom: 0;
+}
