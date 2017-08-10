@@ -1,0 +1,31 @@
+.header1 {
+    height: 50px;
+    width: 100%;
+    background: darkgrey;
+}
+.content_box {
+    height: 150px;
+    width: 100%;
+    background: white;
+    text-align: center;
+}
+.blue_box {
+    background: blue;
+    width: 100%;
+    height: 150px;
+}
+.aqua_box {
+    background: aqua;
+    width: 100%;
+    height: 150px;
+}
+.yellowgreen_box {
+    background: yellowgreen;
+    width: 100%;
+    height: 150px;
+}
+.yellow_box {
+    background: yellow;
+    width: 100%;
+    height: 150px;
+}
